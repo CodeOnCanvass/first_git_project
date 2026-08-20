@@ -4,5 +4,8 @@ public class AnotherClass {
 
     public static void main(String[] args) {
         System.out.println("Hello CYDEO");
+        System.out.println("Hello Programmers");
+        System.out.println("Hello Universe");
+        
     }
 }
